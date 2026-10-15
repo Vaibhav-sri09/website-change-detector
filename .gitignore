@@ -1,0 +1,17 @@
+# SQLite database file (generated at runtime)
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment and IDE settings
+.env
+.vscode/
+.idea/
